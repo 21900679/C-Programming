@@ -3,6 +3,7 @@
 int ageToGroup(int b);
  
 int main(void) {
+ 
  int birth_year;     // 입력받은 태어난 년도
   int year[100];      // 각 사람들의 생년 (최대 100명)  
   int count_person = 0;   // 입력된 인원 수
